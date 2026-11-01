@@ -1,0 +1,266 @@
+{
+"checked_at": "2026-11-01T14:18+03:00",
+"parts": {
+"17801BZ150": {
+"name": "ELEMENT SUB-ASSY AI",
+"price": 209.3,
+"now": 177.91,
+"pct": 15,
+"stock": "inStock"
+},
+"88568BZ050": {
+"name": "FILTER AIR",
+"price": 434.7,
+"now": 369.5,
+"pct": 15,
+"stock": "outOfStock"
+},
+"23300BZ010": {
+"name": "FILTER ASSY FUEL",
+"price": 454.25,
+"now": 386.11,
+"pct": 15,
+"stock": "lowStock"
+},
+"15601BZ030": {
+"name": "ELEMENT SUB-ASSY OI",
+"price": 88.55,
+"now": 75.27,
+"pct": 15,
+"stock": "inStock"
+},
+"35303B1010": {
+"name": "a09-19-d03",
+"price": 280.6,
+"now": 238.51,
+"pct": 15,
+"stock": "inStock"
+},
+"0888681895": {
+"name": "ATF T4 4L",
+"price": 371.45,
+"now": 315.73,
+"pct": 15,
+"stock": "inStock"
+},
+"0888581016": {
+"name": "DIFFRNTL GR OIL 1L",
+"price": 101.2,
+"now": 101.2,
+"pct": 0,
+"stock": "outOfStock"
+},
+"0882380270": {
+"name": "BRAKE FLUID DOT3",
+"price": 55.78,
+"now": 47.41,
+"pct": 15.01,
+"stock": "inStock"
+},
+"9004A43022": {
+"name": "GASKET",
+"price": 5.05,
+"now": 4.29,
+"pct": 15.05,
+"stock": "inStock"
+},
+"35168B1060": {
+"name": "GASKET TRANSMISSION",
+"price": 57.5,
+"now": 48.88,
+"pct": 14.99,
+"stock": "inStock"
+},
+"04465BZ250": {
+"name": "PAD KIT, DISC BRAKE",
+"price": 579.6,
+"now": 492.66,
+"pct": 15,
+"stock": "inStock"
+},
+"04495BZ160": {
+"name": "SHOE KIT, BRAKE, RR",
+"price": 510.6,
+"now": 434.01,
+"pct": 15,
+"stock": "inStock"
+},
+"85214B2290": {
+"name": "RUBBER, WIPER BLADE",
+"price": 100.05,
+"now": 85.04,
+"pct": 15,
+"stock": "inStock"
+},
+"85214B1070": {
+"name": "RUBBER, WIPER BLADE",
+"price": 69,
+"now": 58.65,
+"pct": 15,
+"stock": "inStock"
+},
+"85243BZ080": {
+"name": "RUBBER, RR WIPER BLA",
+"price": 51.75,
+"now": 43.99,
+"pct": 15,
+"stock": "inStock"
+},
+"85222B0020": {
+"name": "BLADE, FR WIPER, LH",
+"price": 195.5,
+"now": 195.5,
+"pct": 0,
+"stock": "inStock"
+},
+"85212B0020": {
+"name": "BLADE, FR WIPER, RH",
+"price": 345,
+"now": 345,
+"pct": 0,
+"stock": "lowStock"
+},
+"85242BZ160": {
+"name": "BLADE, RR WIPER",
+"price": 144.9,
+"now": 144.9,
+"pct": 0,
+"stock": "inStock"
+},
+"16401BZ050": {
+"name": "cAP SUB-ASSY RADIAT",
+"price": 141.45,
+"now": 120.23,
+"pct": 15,
+"stock": "inStock"
+},
+"160310Y010": {
+"name": "INLET SUB-ASSY WATE",
+"price": 336.95,
+"now": 286.41,
+"pct": 15,
+"stock": "inStock"
+},
+"16100B9490": {
+"name": "PUMP ASSY WATER",
+"price": 683.1,
+"now": 580.64,
+"pct": 15,
+"stock": "lowStock"
+},
+"88501BZ160": {
+"name": "EVAPORATOR SUB-ASSY",
+"price": 1999.85,
+"now": 1999.85,
+"pct": 0,
+"stock": "outOfStock"
+},
+"9004A91068": {
+"name": "PLUG  SPARK",
+"price": 127.65,
+"now": 108.5,
+"pct": 15,
+"stock": "inStock"
+},
+"9004A91067": {
+"name": "BELT V-RIBBED",
+"price": 341.55,
+"now": 290.32,
+"pct": 15,
+"stock": "inStock"
+},
+"9004A19002": {
+"name": "COIL IGNITION",
+"price": 585.35,
+"now": 585.35,
+"pct": 0,
+"stock": "inStock"
+},
+"48510BZD00": {
+"name": "ABSORBER ASSY, SHOCK",
+"price": 1183.35,
+"now": 1183.35,
+"pct": 0,
+"stock": "outOfStock"
+},
+"48520BZ840": {
+"name": "ABSORBER ASSY SHOCK FR LH",
+"price": 1183.35,
+"now": 1183.35,
+"pct": 0,
+"stock": "inStock"
+},
+"48530BZ200": {
+"name": "ABSORBER ASSY, SHOCK",
+"price": 458.85,
+"now": 458.85,
+"pct": 0,
+"stock": "inStock"
+},
+"48609BZ070": {
+"name": "SUPPORT SUB-ASSY FR",
+"price": 535.9,
+"now": 535.9,
+"pct": 0,
+"stock": "inStock"
+},
+"48068BZ390": {
+"name": "ARM SUB-ASSY, SUSPEN",
+"price": 1360.45,
+"now": 1360.45,
+"pct": 0,
+"stock": "inStock"
+},
+"48069BZ390": {
+"name": "ARM SUB-ASSY FR SUSPENSION LOWER NO.1 LH",
+"price": 1360.45,
+"now": 1360.45,
+"pct": 0,
+"stock": "outOfStock"
+},
+"48820BZ070": {
+"name": "LINK ASSY, FR STABIL",
+"price": 426.65,
+"now": 426.65,
+"pct": 0,
+"stock": "inStock"
+},
+"48815BZ270": {
+"name": "BUSH, STABILIZER",
+"price": 79.35,
+"now": 79.35,
+"pct": 0,
+"stock": "lowStock"
+},
+"45046BZ210": {
+"name": "\"END SUB-ASSY, TIE RO\"",
+"price": 289.8,
+"now": 289.8,
+"pct": 0,
+"stock": "inStock"
+},
+"12361BZ200": {
+"name": "INSULATOR ENGINE MO",
+"price": 422.05,
+"now": 422.05,
+"pct": 0,
+"stock": "outOfStock"
+},
+"12371BZ170": {
+"name": "INSULATOR ENGINE MO",
+"price": 266.8,
+"now": 266.8,
+"pct": 0,
+"stock": "lowStock"
+}
+},
+"failed": [],
+"history": [
+{
+"at": "2026-11-01T14:18+03:00",
+"ok": 36,
+"total": 36,
+"changes": 0
+}
+]
+}
