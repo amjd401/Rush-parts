@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-03T09:43+03:00",
+"checked_at": "2026-11-03T20:00+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -20,7 +20,7 @@
 "price": 454.25,
 "now": 386.11,
 "pct": 15,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "15601BZ030": {
 "name": "ELEMENT SUB-ASSY OI",
@@ -256,6 +256,12 @@
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-03T20:00+03:00",
+"ok": 36,
+"total": 36,
+"changes": 1
+},
 {
 "at": "2026-11-03T09:43+03:00",
 "ok": 36,
