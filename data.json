@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-05T02:38+03:00",
+"checked_at": "2026-11-05T09:40+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -83,7 +83,7 @@
 "price": 510.6,
 "now": 434.01,
 "pct": 15,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "85214B2290": {
 "name": "RUBBER, WIPER BLADE",
@@ -256,6 +256,12 @@
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-05T09:40+03:00",
+"ok": 36,
+"total": 36,
+"changes": 1
+},
 {
 "at": "2026-11-05T02:38+03:00",
 "ok": 36,
