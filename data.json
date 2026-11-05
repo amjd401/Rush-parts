@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-05T09:40+03:00",
+"checked_at": "2026-11-05T22:59+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -132,7 +132,7 @@
 "price": 141.45,
 "now": 59.89,
 "pct": 57.66,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "160310Y010": {
 "name": "INLET SUB-ASSY WATE",
@@ -257,6 +257,12 @@
 "failed": [],
 "history": [
 {
+"at": "2026-11-05T22:59+03:00",
+"ok": 36,
+"total": 36,
+"changes": 1
+},
+{
 "at": "2026-11-05T09:40+03:00",
 "ok": 36,
 "total": 36,
@@ -318,12 +324,6 @@
 },
 {
 "at": "2026-11-01T14:32+03:00",
-"ok": 36,
-"total": 36,
-"changes": 0
-},
-{
-"at": "2026-11-01T14:18+03:00",
 "ok": 36,
 "total": 36,
 "changes": 0
