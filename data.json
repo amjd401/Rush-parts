@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-09T14:26+03:00",
+"checked_at": "2026-11-09T19:43+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -11,8 +11,8 @@
 "88568BZ050": {
 "name": "FILTER AIR",
 "price": 434.7,
-"now": 369.5,
-"pct": 15,
+"now": 139.93,
+"pct": 67.81,
 "stock": "outOfStock"
 },
 "23300BZ010": {
@@ -60,8 +60,8 @@
 "9004A43022": {
 "name": "GASKET",
 "price": 5.05,
-"now": 4.29,
-"pct": 15.05,
+"now": 1.77,
+"pct": 64.95,
 "stock": "inStock"
 },
 "35168B1060": {
@@ -95,22 +95,22 @@
 "85214B1070": {
 "name": "RUBBER, WIPER BLADE",
 "price": 69,
-"now": 58.65,
-"pct": 15,
+"now": 21.99,
+"pct": 68.13,
 "stock": "inStock"
 },
 "85243BZ080": {
 "name": "RUBBER, RR WIPER BLA",
 "price": 51.75,
-"now": 43.99,
-"pct": 15,
+"now": 18.46,
+"pct": 64.33,
 "stock": "inStock"
 },
 "85222B0020": {
 "name": "BLADE, FR WIPER, LH",
 "price": 195.5,
-"now": 195.5,
-"pct": 0,
+"now": 65.02,
+"pct": 66.74,
 "stock": "lowStock"
 },
 "85212B0020": {
@@ -172,9 +172,9 @@
 "9004A19002": {
 "name": "COIL IGNITION",
 "price": 585.35,
-"now": 585.35,
-"pct": 0,
-"stock": "inStock"
+"now": 279.91,
+"pct": 52.18,
+"stock": "lowStock"
 },
 "48510BZD00": {
 "name": "ABSORBER ASSY, SHOCK",
@@ -193,23 +193,23 @@
 "48530BZ200": {
 "name": "ABSORBER ASSY, SHOCK",
 "price": 458.85,
-"now": 458.85,
-"pct": 0,
-"stock": "inStock"
+"now": 168.4,
+"pct": 63.3,
+"stock": "lowStock"
 },
 "48609BZ070": {
 "name": "SUPPORT SUB-ASSY FR",
 "price": 535.9,
-"now": 535.9,
-"pct": 0,
-"stock": "inStock"
+"now": 193.46,
+"pct": 63.9,
+"stock": "lowStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
 "price": 1360.45,
-"now": 1360.45,
-"pct": 0,
-"stock": "inStock"
+"now": 474.12,
+"pct": 65.15,
+"stock": "lowStock"
 },
 "48069BZ390": {
 "name": "ARM SUB-ASSY FR SUSPENSION LOWER NO.1 LH",
@@ -221,9 +221,9 @@
 "48820BZ070": {
 "name": "LINK ASSY, FR STABIL",
 "price": 426.65,
-"now": 426.65,
-"pct": 0,
-"stock": "inStock"
+"now": 164.39,
+"pct": 61.47,
+"stock": "lowStock"
 },
 "48815BZ270": {
 "name": "BUSH, STABILIZER",
@@ -249,13 +249,19 @@
 "12371BZ170": {
 "name": "INSULATOR ENGINE MO",
 "price": 266.8,
-"now": 266.8,
-"pct": 0,
-"stock": "lowStock"
+"now": 109.31,
+"pct": 59.03,
+"stock": "outOfStock"
 }
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-09T19:43+03:00",
+"ok": 36,
+"total": 36,
+"changes": 11
+},
 {
 "at": "2026-11-09T14:26+03:00",
 "ok": 36,
@@ -321,12 +327,6 @@
 "ok": 36,
 "total": 36,
 "changes": 0
-},
-{
-"at": "2026-11-04T20:12+03:00",
-"ok": 36,
-"total": 36,
-"changes": 1
 }
 ]
 }
