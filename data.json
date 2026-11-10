@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-09T19:43+03:00",
+"checked_at": "2026-11-10T07:38+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -11,9 +11,9 @@
 "88568BZ050": {
 "name": "FILTER AIR",
 "price": 434.7,
-"now": 139.93,
-"pct": 67.81,
-"stock": "outOfStock"
+"now": 167.92,
+"pct": 61.37,
+"stock": "lowStock"
 },
 "23300BZ010": {
 "name": "FILTER ASSY FUEL",
@@ -60,8 +60,8 @@
 "9004A43022": {
 "name": "GASKET",
 "price": 5.05,
-"now": 1.77,
-"pct": 64.95,
+"now": 2.13,
+"pct": 57.82,
 "stock": "inStock"
 },
 "35168B1060": {
@@ -95,22 +95,22 @@
 "85214B1070": {
 "name": "RUBBER, WIPER BLADE",
 "price": 69,
-"now": 21.99,
-"pct": 68.13,
+"now": 28.15,
+"pct": 59.2,
 "stock": "inStock"
 },
 "85243BZ080": {
 "name": "RUBBER, RR WIPER BLA",
 "price": 51.75,
-"now": 18.46,
-"pct": 64.33,
-"stock": "inStock"
+"now": 24.92,
+"pct": 51.85,
+"stock": "lowStock"
 },
 "85222B0020": {
 "name": "BLADE, FR WIPER, LH",
 "price": 195.5,
-"now": 65.02,
-"pct": 66.74,
+"now": 87.78,
+"pct": 55.1,
 "stock": "lowStock"
 },
 "85212B0020": {
@@ -172,8 +172,8 @@
 "9004A19002": {
 "name": "COIL IGNITION",
 "price": 585.35,
-"now": 279.91,
-"pct": 52.18,
+"now": 358.29,
+"pct": 38.79,
 "stock": "lowStock"
 },
 "48510BZD00": {
@@ -193,22 +193,22 @@
 "48530BZ200": {
 "name": "ABSORBER ASSY, SHOCK",
 "price": 458.85,
-"now": 168.4,
-"pct": 63.3,
+"now": 215.55,
+"pct": 53.02,
 "stock": "lowStock"
 },
 "48609BZ070": {
 "name": "SUPPORT SUB-ASSY FR",
 "price": 535.9,
-"now": 193.46,
-"pct": 63.9,
+"now": 247.63,
+"pct": 53.79,
 "stock": "lowStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
 "price": 1360.45,
-"now": 474.12,
-"pct": 65.15,
+"now": 606.87,
+"pct": 55.39,
 "stock": "lowStock"
 },
 "48069BZ390": {
@@ -221,8 +221,8 @@
 "48820BZ070": {
 "name": "LINK ASSY, FR STABIL",
 "price": 426.65,
-"now": 164.39,
-"pct": 61.47,
+"now": 210.42,
+"pct": 50.68,
 "stock": "lowStock"
 },
 "48815BZ270": {
@@ -249,13 +249,19 @@
 "12371BZ170": {
 "name": "INSULATOR ENGINE MO",
 "price": 266.8,
-"now": 109.31,
-"pct": 59.03,
+"now": 139.91,
+"pct": 47.56,
 "stock": "outOfStock"
 }
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-10T07:38+03:00",
+"ok": 36,
+"total": 36,
+"changes": 11
+},
 {
 "at": "2026-11-09T19:43+03:00",
 "ok": 36,
@@ -321,12 +327,6 @@
 "ok": 36,
 "total": 36,
 "changes": 1
-},
-{
-"at": "2026-11-05T02:38+03:00",
-"ok": 36,
-"total": 36,
-"changes": 0
 }
 ]
 }
