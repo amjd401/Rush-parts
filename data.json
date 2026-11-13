@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-12T15:40+03:00",
+"checked_at": "2026-11-13T04:49+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -132,7 +132,7 @@
 "price": 141.45,
 "now": 59.89,
 "pct": 57.66,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "160310Y010": {
 "name": "INLET SUB-ASSY WATE",
@@ -223,7 +223,7 @@
 "price": 426.65,
 "now": 210.42,
 "pct": 50.68,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "48815BZ270": {
 "name": "BUSH, STABILIZER",
@@ -256,6 +256,12 @@
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-13T04:49+03:00",
+"ok": 36,
+"total": 36,
+"changes": 2
+},
 {
 "at": "2026-11-12T15:40+03:00",
 "ok": 36,
@@ -318,12 +324,6 @@
 },
 {
 "at": "2026-11-08T19:07+03:00",
-"ok": 36,
-"total": 36,
-"changes": 1
-},
-{
-"at": "2026-11-08T08:57+03:00",
 "ok": 36,
 "total": 36,
 "changes": 1
