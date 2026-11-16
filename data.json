@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-16T14:09+03:00",
+"checked_at": "2026-11-17T00:00+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -202,7 +202,7 @@
 "price": 535.9,
 "now": 247.63,
 "pct": 53.79,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
@@ -223,7 +223,7 @@
 "price": 426.65,
 "now": 210.42,
 "pct": 50.68,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "48815BZ270": {
 "name": "BUSH, STABILIZER",
@@ -256,6 +256,12 @@
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-17T00:00+03:00",
+"ok": 36,
+"total": 36,
+"changes": 2
+},
 {
 "at": "2026-11-16T14:09+03:00",
 "ok": 36,
@@ -318,12 +324,6 @@
 },
 {
 "at": "2026-11-11T19:10+03:00",
-"ok": 36,
-"total": 36,
-"changes": 0
-},
-{
-"at": "2026-11-11T19:09+03:00",
 "ok": 36,
 "total": 36,
 "changes": 0
