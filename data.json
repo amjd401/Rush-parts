@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-17T14:39+03:00",
+"checked_at": "2026-11-18T01:19+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -167,7 +167,7 @@
 "price": 341.55,
 "now": 153.62,
 "pct": 55.02,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "9004A19002": {
 "name": "COIL IGNITION",
@@ -202,7 +202,7 @@
 "price": 535.9,
 "now": 247.63,
 "pct": 53.79,
-"stock": "outOfStock"
+"stock": "inStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
@@ -216,7 +216,7 @@
 "price": 1360.45,
 "now": 1360.45,
 "pct": 0,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "48820BZ070": {
 "name": "LINK ASSY, FR STABIL",
@@ -251,11 +251,17 @@
 "price": 266.8,
 "now": 139.91,
 "pct": 47.56,
-"stock": "lowStock"
+"stock": "inStock"
 }
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-18T01:19+03:00",
+"ok": 36,
+"total": 36,
+"changes": 4
+},
 {
 "at": "2026-11-17T14:39+03:00",
 "ok": 36,
@@ -321,12 +327,6 @@
 "ok": 36,
 "total": 36,
 "changes": 1
-},
-{
-"at": "2026-11-12T06:47+03:00",
-"ok": 36,
-"total": 36,
-"changes": 0
 }
 ]
 }
