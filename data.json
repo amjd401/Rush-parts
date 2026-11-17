@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-17T00:00+03:00",
+"checked_at": "2026-11-17T14:39+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -67,8 +67,8 @@
 "35168B1060": {
 "name": "GASKET TRANSMISSION",
 "price": 57.5,
-"now": 48.88,
-"pct": 14.99,
+"now": 24.64,
+"pct": 57.15,
 "stock": "inStock"
 },
 "04465BZ250": {
@@ -104,7 +104,7 @@
 "price": 51.75,
 "now": 24.92,
 "pct": 51.85,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "85222B0020": {
 "name": "BLADE, FR WIPER, LH",
@@ -144,8 +144,8 @@
 "16100B9490": {
 "name": "PUMP ASSY WATER",
 "price": 683.1,
-"now": 580.64,
-"pct": 15,
+"now": 315.51,
+"pct": 53.81,
 "stock": "lowStock"
 },
 "88501BZ160": {
@@ -165,9 +165,9 @@
 "9004A91067": {
 "name": "BELT V-RIBBED",
 "price": 341.55,
-"now": 290.32,
-"pct": 15,
-"stock": "inStock"
+"now": 153.62,
+"pct": 55.02,
+"stock": "lowStock"
 },
 "9004A19002": {
 "name": "COIL IGNITION",
@@ -186,8 +186,8 @@
 "48520BZ840": {
 "name": "ABSORBER ASSY SHOCK FR LH",
 "price": 1183.35,
-"now": 1183.35,
-"pct": 0,
+"now": 547.41,
+"pct": 53.74,
 "stock": "lowStock"
 },
 "48530BZ200": {
@@ -195,14 +195,14 @@
 "price": 458.85,
 "now": 215.55,
 "pct": 53.02,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "48609BZ070": {
 "name": "SUPPORT SUB-ASSY FR",
 "price": 535.9,
 "now": 247.63,
 "pct": 53.79,
-"stock": "inStock"
+"stock": "outOfStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
@@ -235,9 +235,9 @@
 "45046BZ210": {
 "name": "\"END SUB-ASSY, TIE RO\"",
 "price": 289.8,
-"now": 289.8,
-"pct": 0,
-"stock": "inStock"
+"now": 139.81,
+"pct": 51.76,
+"stock": "lowStock"
 },
 "12361BZ200": {
 "name": "INSULATOR ENGINE MO",
@@ -256,6 +256,12 @@
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-17T14:39+03:00",
+"ok": 36,
+"total": 36,
+"changes": 8
+},
 {
 "at": "2026-11-17T00:00+03:00",
 "ok": 36,
@@ -318,12 +324,6 @@
 },
 {
 "at": "2026-11-12T06:47+03:00",
-"ok": 36,
-"total": 36,
-"changes": 0
-},
-{
-"at": "2026-11-11T19:10+03:00",
 "ok": 36,
 "total": 36,
 "changes": 0
