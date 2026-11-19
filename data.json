@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-19T06:22+03:00",
+"checked_at": "2026-11-19T15:59+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -202,7 +202,7 @@
 "price": 535.9,
 "now": 247.63,
 "pct": 53.79,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
@@ -244,18 +244,24 @@
 "price": 422.05,
 "now": 422.05,
 "pct": 0,
-"stock": "outOfStock"
+"stock": "lowStock"
 },
 "12371BZ170": {
 "name": "INSULATOR ENGINE MO",
 "price": 266.8,
 "now": 139.91,
 "pct": 47.56,
-"stock": "inStock"
+"stock": "lowStock"
 }
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-19T15:59+03:00",
+"ok": 36,
+"total": 36,
+"changes": 3
+},
 {
 "at": "2026-11-19T06:22+03:00",
 "ok": 36,
@@ -318,12 +324,6 @@
 },
 {
 "at": "2026-11-14T02:31+03:00",
-"ok": 36,
-"total": 36,
-"changes": 0
-},
-{
-"at": "2026-11-13T17:43+03:00",
 "ok": 36,
 "total": 36,
 "changes": 0
