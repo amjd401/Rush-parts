@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-23T03:17+03:00",
+"checked_at": "2026-11-23T23:10+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -167,7 +167,7 @@
 "price": 341.55,
 "now": 153.62,
 "pct": 55.02,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "9004A19002": {
 "name": "COIL IGNITION",
@@ -223,7 +223,7 @@
 "price": 426.65,
 "now": 210.42,
 "pct": 50.68,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "48815BZ270": {
 "name": "BUSH, STABILIZER",
@@ -251,11 +251,17 @@
 "price": 266.8,
 "now": 139.91,
 "pct": 47.56,
-"stock": "inStock"
+"stock": "lowStock"
 }
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-23T23:10+03:00",
+"ok": 36,
+"total": 36,
+"changes": 3
+},
 {
 "at": "2026-11-23T03:17+03:00",
 "ok": 36,
@@ -321,12 +327,6 @@
 "ok": 36,
 "total": 36,
 "changes": 8
-},
-{
-"at": "2026-11-17T00:00+03:00",
-"ok": 36,
-"total": 36,
-"changes": 2
 }
 ]
 }
