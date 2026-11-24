@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-23T23:10+03:00",
+"checked_at": "2026-11-24T11:41+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -167,7 +167,7 @@
 "price": 341.55,
 "now": 153.62,
 "pct": 55.02,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "9004A19002": {
 "name": "COIL IGNITION",
@@ -257,6 +257,12 @@
 "failed": [],
 "history": [
 {
+"at": "2026-11-24T11:41+03:00",
+"ok": 36,
+"total": 36,
+"changes": 1
+},
+{
 "at": "2026-11-23T23:10+03:00",
 "ok": 36,
 "total": 36,
@@ -321,12 +327,6 @@
 "ok": 36,
 "total": 36,
 "changes": 4
-},
-{
-"at": "2026-11-17T14:39+03:00",
-"ok": 36,
-"total": 36,
-"changes": 8
 }
 ]
 }
