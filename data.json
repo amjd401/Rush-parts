@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-26T15:24+03:00",
+"checked_at": "2026-11-27T01:19+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -202,7 +202,7 @@
 "price": 535.9,
 "now": 247.63,
 "pct": 53.79,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
@@ -251,11 +251,17 @@
 "price": 266.8,
 "now": 139.91,
 "pct": 47.56,
-"stock": "inStock"
+"stock": "lowStock"
 }
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-27T01:19+03:00",
+"ok": 36,
+"total": 36,
+"changes": 2
+},
 {
 "at": "2026-11-26T15:24+03:00",
 "ok": 36,
@@ -321,12 +327,6 @@
 "ok": 36,
 "total": 36,
 "changes": 2
-},
-{
-"at": "2026-11-20T06:16+03:00",
-"ok": 0,
-"total": 36,
-"changes": 0
 }
 ]
 }
