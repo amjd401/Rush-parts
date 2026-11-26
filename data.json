@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-25T22:55+03:00",
+"checked_at": "2026-11-26T15:24+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -167,7 +167,7 @@
 "price": 341.55,
 "now": 153.62,
 "pct": 55.02,
-"stock": "inStock"
+"stock": "lowStock"
 },
 "9004A19002": {
 "name": "COIL IGNITION",
@@ -202,7 +202,7 @@
 "price": 535.9,
 "now": 247.63,
 "pct": 53.79,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "48068BZ390": {
 "name": "ARM SUB-ASSY, SUSPEN",
@@ -223,7 +223,7 @@
 "price": 426.65,
 "now": 210.42,
 "pct": 50.68,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "48815BZ270": {
 "name": "BUSH, STABILIZER",
@@ -244,7 +244,7 @@
 "price": 422.05,
 "now": 422.05,
 "pct": 0,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "12371BZ170": {
 "name": "INSULATOR ENGINE MO",
@@ -256,6 +256,12 @@
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-26T15:24+03:00",
+"ok": 36,
+"total": 36,
+"changes": 4
+},
 {
 "at": "2026-11-25T22:55+03:00",
 "ok": 36,
@@ -321,12 +327,6 @@
 "ok": 0,
 "total": 36,
 "changes": 0
-},
-{
-"at": "2026-11-19T15:59+03:00",
-"ok": 36,
-"total": 36,
-"changes": 3
 }
 ]
 }
