@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-27T18:00+03:00",
+"checked_at": "2026-11-28T10:42+03:00",
 "parts": {
 "17801BZ150": {
 "name": "ELEMENT SUB-ASSY AI",
@@ -167,14 +167,14 @@
 "price": 341.55,
 "now": 153.62,
 "pct": 55.02,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "9004A19002": {
 "name": "COIL IGNITION",
 "price": 585.35,
 "now": 358.29,
 "pct": 38.79,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "48510BZD00": {
 "name": "ABSORBER ASSY, SHOCK",
@@ -209,7 +209,7 @@
 "price": 1360.45,
 "now": 606.87,
 "pct": 55.39,
-"stock": "lowStock"
+"stock": "inStock"
 },
 "48069BZ390": {
 "name": "ARM SUB-ASSY FR SUSPENSION LOWER NO.1 LH",
@@ -256,6 +256,12 @@
 },
 "failed": [],
 "history": [
+{
+"at": "2026-11-28T10:42+03:00",
+"ok": 36,
+"total": 36,
+"changes": 3
+},
 {
 "at": "2026-11-27T18:00+03:00",
 "ok": 36,
@@ -321,12 +327,6 @@
 "ok": 36,
 "total": 36,
 "changes": 1
-},
-{
-"at": "2026-11-21T12:44+03:00",
-"ok": 36,
-"total": 36,
-"changes": 0
 }
 ]
 }
